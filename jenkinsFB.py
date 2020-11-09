@@ -8,3 +8,7 @@ server=jenkins.Jenkins(url=jenkins_server_url,username=user_id,password=api_toke
 
 params= {'branch': 'release-20200810'}
 server.build_job("user",params)
+
+
+
+ceshiceshiceshi
